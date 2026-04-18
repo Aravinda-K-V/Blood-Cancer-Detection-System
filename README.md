@@ -106,7 +106,7 @@ POST /predict
 
 ## 📸 Demo Preview
 
-(Add screenshots or GIF here)
+
 
 ---
 
