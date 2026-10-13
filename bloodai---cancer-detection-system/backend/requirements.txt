@@ -1,0 +1,6 @@
+flask==2.2.5
+flask-cors==3.0.10
+numpy==1.24.4
+pillow==10.1.0
+tensorflow==2.11.0
+# Note: TensorFlow GPU builds may require different package names and system setup

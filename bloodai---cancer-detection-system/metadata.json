@@ -1,0 +1,6 @@
+{
+  "name": "BloodAI - Cancer Detection System",
+  "description": "An AI-powered microscopic blood cell analysis tool designed to assist doctors in early detection of blood cancers and improve patient outcomes.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}

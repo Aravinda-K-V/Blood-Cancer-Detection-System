@@ -1,0 +1,8 @@
+[
+  { "id": 0, "name": "Basophil", "description": "A type of white blood cell involved in inflammatory and allergic responses.", "baseRisk": "Normal" },
+  { "id": 1, "name": "Monocyte", "description": "The largest type of white blood cell, precursors to macrophages.", "baseRisk": "Normal" },
+  { "id": 2, "name": "Seg_neutrophil", "description": "Segmented Neutrophil; a mature white blood cell essential for fighting infection.", "baseRisk": "Normal" },
+  { "id": 3, "name": "Erythroblast", "description": "An immature red blood cell normally found in the bone marrow. Presence in blood can indicate stress or disease.", "baseRisk": "Moderate" },
+  { "id": 4, "name": "Normal", "description": "Standard mature blood cell morphology with no significant abnormalities detected.", "baseRisk": "Normal" },
+  { "id": 5, "name": "Myeloblast", "description": "Immature white blood cell; abnormal presence in blood is a primary indicator of leukemia.", "baseRisk": "High" }
+]

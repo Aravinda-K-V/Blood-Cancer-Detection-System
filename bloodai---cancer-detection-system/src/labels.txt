@@ -1,0 +1,6 @@
+basophil
+Monocyte
+seg_neutrophil
+erythroblast
+Normal
+Myeloblast
